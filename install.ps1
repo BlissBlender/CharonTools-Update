@@ -1,4 +1,4 @@
-﻿$ErrorActionPreference = "Stop"
+$ErrorActionPreference = "Stop"
 Write-Host "Fetching latest CharonTool release info..." -ForegroundColor Cyan
 
 $latestJsonUrl = "https://raw.githubusercontent.com/BlissBlender/CharonTools-Update/main/latest.json"
