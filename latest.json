@@ -1,8 +1,8 @@
 {
-  "version": "5.0.1",
-  "downloadUrl": "https://github.com/BlissBlender/CharonTools-Update/releases/download/v5.0.1/CharonTool.exe",
-  "releaseUrl": "https://github.com/BlissBlender/CharonTools-Update/releases/tag/v5.0.1",
-  "sha256": "d266cf9302a1f0fc50e1b0ce7cdfad7cb2f385601b4cce455727f53602375e34",
+  "version": "5.0.2",
+  "downloadUrl": "https://github.com/BlissBlender/CharonTools-Update/releases/download/v5.0.2/CharonTool.exe",
+  "releaseUrl": "https://github.com/BlissBlender/CharonTools-Update/releases/tag/v5.0.2",
+  "sha256": "029c0d0467363188c2fdad77074948ca27daaed8b1c6e3c4c8fd6dff14c77ae7",
   "notes": "",
-  "publishedAt": "2026-09-13T17:01:00.008Z"
+  "publishedAt": "2026-09-21T04:24:33.083Z"
 }
